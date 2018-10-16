@@ -4,7 +4,7 @@
   - [npm start](#npm-start)
 
 
-## Available Scripts
+## Start the Server
 
 In the project directory, you can run:
 
@@ -20,12 +20,6 @@ Open [http://localhost:8000](http://localhost:8000) to view it in the browser an
 
 ```sh
 npm install 
-```
-
-### Start the Server
-
-```sh
-npm start
 ```
 
 ### Thanks
