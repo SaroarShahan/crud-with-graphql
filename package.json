@@ -1,0 +1,25 @@
+{
+  "name": "learn-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "SaroarShahan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "express-graphql": "^0.6.12",
+    "graphql": "^14.0.2",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.3.3"
+  },
+  "devDependencies": {
+    "json-server": "^0.14.0",
+    "nodemon": "^1.18.4"
+  }
+}

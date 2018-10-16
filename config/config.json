@@ -1,0 +1,22 @@
+{
+  "development": {
+    "server": {
+      "host": "localhost",
+      "port": 8000
+    },
+    "database": {
+      "db": "mongodb://users:test2018@ds051833.mlab.com:51833/graphql"
+    },
+    "mysecrete": "LoveJS"
+  },
+  "production": {
+    "server": {
+      "host": "localhost",
+      "port": 80
+    },
+    "database": {
+      "db": "mongodb://users:test2018@ds051833.mlab.com:51833/graphql"
+    },
+    "mysecrete": "LoveJS"
+  }
+}
